@@ -11,12 +11,12 @@ Make sure you have a read or general understanding to the concepts and methods b
 - Text manipulation, vectorization, term frequency and inverse document frequency
 
 ## Notebooks
-1. `gaussian-naive-bayes-example.ipynb` - Basic Naive Bayes examples.
-2. `gaussian-naive-bayes-mpg.ipynb` - Implementation of Naive Bayes using `sklearn` on the `mpg` dataset.
-3. `multinomial-naive-bayes-20newsgroups.ipynb` - Implementation of Multinomial Naive Bayes using `sklearn` on the `20newsgroups` dataset.
-4. `multinomial-naive-bayes-amazon.ipynb` - Implementation of Multinomial Naive Bayes using `sklearn` on the `amazon_cells_labelled` dataset.
-5. `multinomial-naive-bayes-imdb-gridsearch.ipynb` - Implementation of Multinomial Naive Bayes using `sklearn` on the `imdb_labelled` dataset.
-6. `multinomial-naive-bayes-yelp.ipynb` - Implementation of Multinomial Naive Bayes using `sklearn` on the `yelp_labelled` dataset.
+1. **gaussian-naive-bayes-example.ipynb** - Basic Naive Bayes examples.
+2. **gaussian-naive-bayes-mpg.ipynb** - Implementation of Naive Bayes using `sklearn` on the **mpg** dataset.
+3. **multinomial-naive-bayes-20newsgroups.ipynb** - Implementation of Multinomial Naive Bayes using `sklearn` on the **20newsgroups** dataset.
+4. **multinomial-naive-bayes-amazon.ipynb** - Implementation of Multinomial Naive Bayes using `sklearn` on the **amazon_cells_labelled** dataset.
+5. **multinomial-naive-bayes-imdb-gridsearch.ipynb** - Implementation of Multinomial Naive Bayes using `sklearn` on the **imdb_labelled** dataset.
+6. **multinomial-naive-bayes-yelp.ipynb** - Implementation of Multinomial Naive Bayes using `sklearn` on the **yelp_labelled** dataset.
 
 ## Directories
 1. **sentiment labelled sentences** - contains yelp, amazon and imdb review data.
