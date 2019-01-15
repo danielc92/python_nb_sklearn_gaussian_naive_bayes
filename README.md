@@ -1,7 +1,14 @@
 # Text Classification (python_nb_sklearn_gaussian_naive_bayes)
-Repository containing attempts of text classification using Naive Bayes method.
+This project contains various notebooks applying text classification using multipolynomial naive bayes, vectorization and gridsearch within a `jupyter notebook` environment. Execution of this project relies quite heavily on `sklearn` library from `python3`.
 
 # Before you get started
+Make sure you have a read or general understanding to the concepts and methods below before getting started;
+- Understanding how to use jupyter notebooks
+- Application of naive bayes model
+- Train test split concept
+- Cross validation
+- Confusion matrices
+- Text manipulation, vectorization, term frequency and inverse document frequency
 
 # Installation
 **Requirements**
